@@ -145,9 +145,14 @@ sqlp-study
   + 시험주요내용
     +  총 3과목으로 구성되어 있으며 데이터 모델링의 이해 과목을 바탕으로 SQL 기본 및 활용, SQL 고급활용 및 튜닝을 수행하는 능력을 검정한다.
   + 출제문항수
+    ![SQLP 출제문항수](https://github.com/ISFX-Study/sqlp-study/raw/main/img/SQLP_%EC%B6%9C%EC%A0%9C%EB%AC%B8%ED%95%AD%EC%88%98.png)
   + 과목별 주요항목
+    ![SQLP 과목별 주요항목](https://github.com/ISFX-Study/sqlp-study/raw/main/img/SQLP_%EA%B3%BC%EB%AA%A9%EB%B3%84%EC%A3%BC%EC%9A%94%ED%95%AD%EB%AA%A9.png)
   + 응시자격
+    ![SQLP 응시자격](https://github.com/ISFX-Study/sqlp-study/raw/main/img/SQLP_%EC%9D%91%EC%8B%9C%EC%9E%90%EA%B2%A9.png)
   + 합격기준
+    ![SQLP 합격기준](https://github.com/ISFX-Study/sqlp-study/blob/main/img/SQLP_%ED%95%A9%EA%B2%A9%EA%B8%B0%EC%A4%80.png)
+
 + 책
   + 기본
     + [SQL 전문가 가이드](https://product.kyobobook.co.kr/detail/S000001399869)
