@@ -155,6 +155,8 @@ sqlp-study
     ![SQLP 응시자격](https://github.com/ISFX-Study/sqlp-study/raw/main/img/SQLP_%EC%9D%91%EC%8B%9C%EC%9E%90%EA%B2%A9.png)
   + 합격기준
     ![SQLP 합격기준](https://github.com/ISFX-Study/sqlp-study/blob/main/img/SQLP_%ED%95%A9%EA%B2%A9%EA%B8%B0%EC%A4%80.png)
+  + 시험일정
+    ![SQLP 시험일정](https://github.com/ISFX-Study/sqlp-study/raw/main/img/SQLP_%EC%8B%9C%ED%97%98%EC%9D%BC%EC%A0%95.png)
 
 + 책
   + 기본
